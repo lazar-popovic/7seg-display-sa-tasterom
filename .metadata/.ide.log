@@ -1,0 +1,388 @@
+2022-11-04 20:54:44,505 [INFO] Activator:176 - 
+
+
+2022-11-04 20:54:44,515 [INFO] Activator:177 - !SESSION log4j initialized
+2022-11-04 20:54:52,781 [INFO] ApplicationProperties:181 - Using Application install path: C:\ST\STM32CubeIDE_1.3.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_5.6.0.202002181639
+2022-11-04 20:54:52,811 [INFO] DbMcusXml:72 - Set database path to: C:\ST\STM32CubeIDE_1.3.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_5.6.0.202002181639\\db\/mcu/
+2022-11-04 20:54:52,821 [INFO] DbBoardsPdsc:54 - Set plugin database path to: C:\ST\STM32CubeIDE_1.3.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_5.6.0.202002181639\\db\/plugins/boardmanager/
+2022-11-04 20:54:52,821 [INFO] DbMcus:235 - Set plugin images path to: C:\ST\STM32CubeIDE_1.3.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_5.6.0.202002181639\\db\/plugins/mcufinder/images/
+2022-11-04 20:54:52,821 [INFO] DbBoards:232 - Set plugin images path to: C:\ST\STM32CubeIDE_1.3.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_5.6.0.202002181639\\db\/plugins/mcufinder/images/
+2022-11-04 20:54:52,842 [INFO] DbMcusAds:85 - Set database path to: C:\Users\Lazar\.stmcufinder\plugins\mcufinder//mcu/
+2022-11-04 20:54:52,850 [INFO] DbMcusDocs:108 - Set database path to: C:\Users\Lazar\.stmcufinder\plugins\mcufinder//mcu/
+2022-11-04 20:54:52,852 [INFO] DbMcusJson:61 - Set database path to: C:\Users\Lazar\.stmcufinder\plugins\mcufinder//mcu/
+2022-11-04 20:54:52,852 [INFO] DbBoardsDocs:97 - Set database path to: C:\Users\Lazar\.stmcufinder\plugins\mcufinder//mcu/
+2022-11-04 20:54:52,860 [INFO] DbBoardsJson:51 - Set database path to: C:\Users\Lazar\.stmcufinder\plugins\mcufinder//mcu/
+2022-11-04 20:54:52,880 [INFO] CrossReferenceDbSqlite:197 - Set database path to: C:\Users\Lazar\.stmcufinder\plugins\mcufinder//mcu/cs/
+2022-11-04 20:54:53,316 [INFO] RulesReader:52 - Compatibility file has been processed (208 Rules)
+2022-11-04 20:54:53,579 [INFO] MicroXplorer:570 - Detected Java Version = 1.8.0_242
+2022-11-04 20:54:53,579 [INFO] DbMcusXml:72 - Set database path to: C:\ST\STM32CubeIDE_1.3.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_5.6.0.202002181639\\db\/mcu/
+2022-11-04 20:54:53,579 [INFO] DbBoardsPdsc:54 - Set plugin database path to: C:\ST\STM32CubeIDE_1.3.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_5.6.0.202002181639\\db\/plugins/boardmanager/
+2022-11-04 20:54:53,579 [INFO] DbMcus:235 - Set plugin images path to: C:\ST\STM32CubeIDE_1.3.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_5.6.0.202002181639\\db\/plugins/mcufinder/images/
+2022-11-04 20:54:53,579 [INFO] DbBoards:232 - Set plugin images path to: C:\ST\STM32CubeIDE_1.3.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_5.6.0.202002181639\\db\/plugins/mcufinder/images/
+2022-11-04 20:54:53,587 [WARN] DbFile:36 - Overriding database path with different value: C:\Users\Lazar\.stmcufinder\plugins\mcufinder/ => C:\Users\Lazar\.stmcufinder\plugins\mcufinder
+2022-11-04 20:54:53,587 [INFO] DbMcusAds:85 - Set database path to: C:\Users\Lazar\.stmcufinder\plugins\mcufinder//mcu/
+2022-11-04 20:54:53,587 [WARN] DbFile:36 - Overriding database path with different value: C:\Users\Lazar\.stmcufinder\plugins\mcufinder/ => C:\Users\Lazar\.stmcufinder\plugins\mcufinder
+2022-11-04 20:54:53,587 [INFO] DbMcusDocs:108 - Set database path to: C:\Users\Lazar\.stmcufinder\plugins\mcufinder//mcu/
+2022-11-04 20:54:53,589 [WARN] DbFile:36 - Overriding database path with different value: C:\Users\Lazar\.stmcufinder\plugins\mcufinder/ => C:\Users\Lazar\.stmcufinder\plugins\mcufinder
+2022-11-04 20:54:53,589 [INFO] DbMcusJson:61 - Set database path to: C:\Users\Lazar\.stmcufinder\plugins\mcufinder//mcu/
+2022-11-04 20:54:53,589 [WARN] DbFile:36 - Overriding database path with different value: C:\Users\Lazar\.stmcufinder\plugins\mcufinder/ => C:\Users\Lazar\.stmcufinder\plugins\mcufinder
+2022-11-04 20:54:53,589 [INFO] DbBoardsDocs:97 - Set database path to: C:\Users\Lazar\.stmcufinder\plugins\mcufinder//mcu/
+2022-11-04 20:54:53,589 [WARN] DbFile:36 - Overriding database path with different value: C:\Users\Lazar\.stmcufinder\plugins\mcufinder/ => C:\Users\Lazar\.stmcufinder\plugins\mcufinder
+2022-11-04 20:54:53,589 [INFO] DbBoardsJson:51 - Set database path to: C:\Users\Lazar\.stmcufinder\plugins\mcufinder//mcu/
+2022-11-04 20:54:53,589 [WARN] DbFile:36 - Overriding database path with different value: C:\Users\Lazar\.stmcufinder\plugins\mcufinder/ => C:\Users\Lazar\.stmcufinder\plugins\mcufinder
+2022-11-04 20:54:53,589 [WARN] DbFile:36 - Overriding database path with different value: C:\Users\Lazar\.stmcufinder\plugins\mcufinder/ => C:\Users\Lazar\.stmcufinder\plugins\mcufinder
+2022-11-04 20:54:53,589 [INFO] CrossReferenceDbSqlite:197 - Set database path to: C:\Users\Lazar\.stmcufinder\plugins\mcufinder//mcu/cs/
+2022-11-04 20:54:53,842 [INFO] MainPanel:181 - HeapMemory: 268435456
+2022-11-04 20:54:54,098 [INFO] DbMcusXml:72 - Set database path to: C:\ST\STM32CubeIDE_1.3.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_5.6.0.202002181639\\db\/mcu/
+2022-11-04 20:54:54,098 [INFO] DbBoardsPdsc:54 - Set plugin database path to: C:\ST\STM32CubeIDE_1.3.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_5.6.0.202002181639\\db\/plugins/boardmanager/
+2022-11-04 20:54:54,099 [INFO] DbMcus:235 - Set plugin images path to: C:\ST\STM32CubeIDE_1.3.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_5.6.0.202002181639\\db\/plugins/mcufinder/images/
+2022-11-04 20:54:54,099 [INFO] DbBoards:232 - Set plugin images path to: C:\ST\STM32CubeIDE_1.3.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_5.6.0.202002181639\\db\/plugins/mcufinder/images/
+2022-11-04 20:54:54,101 [WARN] DbFile:36 - Overriding database path with different value: C:\Users\Lazar\.stmcufinder\plugins\mcufinder/ => C:\Users\Lazar\.stmcufinder\plugins\mcufinder
+2022-11-04 20:54:54,101 [INFO] DbMcusAds:85 - Set database path to: C:\Users\Lazar\.stmcufinder\plugins\mcufinder//mcu/
+2022-11-04 20:54:54,102 [WARN] DbFile:36 - Overriding database path with different value: C:\Users\Lazar\.stmcufinder\plugins\mcufinder/ => C:\Users\Lazar\.stmcufinder\plugins\mcufinder
+2022-11-04 20:54:54,102 [INFO] DbMcusDocs:108 - Set database path to: C:\Users\Lazar\.stmcufinder\plugins\mcufinder//mcu/
+2022-11-04 20:54:54,103 [WARN] DbFile:36 - Overriding database path with different value: C:\Users\Lazar\.stmcufinder\plugins\mcufinder/ => C:\Users\Lazar\.stmcufinder\plugins\mcufinder
+2022-11-04 20:54:54,103 [INFO] DbMcusJson:61 - Set database path to: C:\Users\Lazar\.stmcufinder\plugins\mcufinder//mcu/
+2022-11-04 20:54:54,103 [WARN] DbFile:36 - Overriding database path with different value: C:\Users\Lazar\.stmcufinder\plugins\mcufinder/ => C:\Users\Lazar\.stmcufinder\plugins\mcufinder
+2022-11-04 20:54:54,105 [INFO] DbBoardsDocs:97 - Set database path to: C:\Users\Lazar\.stmcufinder\plugins\mcufinder//mcu/
+2022-11-04 20:54:54,106 [WARN] DbFile:36 - Overriding database path with different value: C:\Users\Lazar\.stmcufinder\plugins\mcufinder/ => C:\Users\Lazar\.stmcufinder\plugins\mcufinder
+2022-11-04 20:54:54,106 [INFO] DbBoardsJson:51 - Set database path to: C:\Users\Lazar\.stmcufinder\plugins\mcufinder//mcu/
+2022-11-04 20:54:54,107 [WARN] DbFile:36 - Overriding database path with different value: C:\Users\Lazar\.stmcufinder\plugins\mcufinder/ => C:\Users\Lazar\.stmcufinder\plugins\mcufinder
+2022-11-04 20:54:54,107 [WARN] DbFile:36 - Overriding database path with different value: C:\Users\Lazar\.stmcufinder\plugins\mcufinder/ => C:\Users\Lazar\.stmcufinder\plugins\mcufinder
+2022-11-04 20:54:54,107 [INFO] CrossReferenceDbSqlite:197 - Set database path to: C:\Users\Lazar\.stmcufinder\plugins\mcufinder//mcu/cs/
+2022-11-04 20:54:54,164 [INFO] ApplicationProperties:181 - Using Application install path: C:\ST\STM32CubeIDE_1.3.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_5.6.0.202002181639
+2022-11-04 20:54:54,164 [INFO] PluginManage:178 - Search for loadable plugins [exclusion list=, tutovideos]
+2022-11-04 20:54:54,172 [INFO] PluginManage:292 - Check plugin analytics
+2022-11-04 20:54:54,286 [INFO] PluginManage:342 - Loaded plugin analytics (category:tool,tabindex:-1)
+2022-11-04 20:54:54,286 [INFO] PluginManage:292 - Check plugin clock
+2022-11-04 20:54:54,336 [INFO] PluginManage:342 - Loaded plugin clock (category:base,tabindex:2)
+2022-11-04 20:54:54,336 [INFO] PluginManage:292 - Check plugin ddr
+2022-11-04 20:54:54,346 [INFO] PluginManage:342 - Loaded plugin ddr (category:tool,tabindex:6)
+2022-11-04 20:54:54,346 [INFO] PluginManage:292 - Check plugin filemanager
+2022-11-04 20:54:54,819 [INFO] PluginManage:342 - Loaded plugin filemanager (category:base,tabindex:10)
+2022-11-04 20:54:54,819 [INFO] PluginManage:292 - Check plugin ipmanager
+2022-11-04 20:54:54,844 [INFO] PluginManage:342 - Loaded plugin ipmanager (category:base,tabindex:5)
+2022-11-04 20:54:54,844 [INFO] PluginManage:292 - Check plugin pinoutandconfiguration
+2022-11-04 20:54:54,875 [INFO] PluginManage:342 - Loaded plugin pinoutandconfiguration (category:base,tabindex:1)
+2022-11-04 20:54:54,875 [INFO] PluginManage:292 - Check plugin pinoutconfig
+2022-11-04 20:54:55,060 [INFO] PluginManage:342 - Loaded plugin pinoutconfig (category:base,tabindex:0)
+2022-11-04 20:54:55,060 [INFO] PluginManage:292 - Check plugin power
+2022-11-04 20:54:55,131 [INFO] PluginManage:342 - Loaded plugin power (category:power,tabindex:4)
+2022-11-04 20:54:55,131 [INFO] PluginManage:292 - Check plugin projectmanager
+2022-11-04 20:54:55,324 [INFO] PluginManage:342 - Loaded plugin projectmanager (category:projectmanager,tabindex:3)
+2022-11-04 20:54:55,324 [INFO] PluginManage:292 - Check plugin thirdparty
+2022-11-04 20:54:55,463 [INFO] ThirdPartyDb:295 - Open Third Party DataBase File (C:/Users/Lazar/.stm32cubemx/plugins/thirdparty/db/thirdparties_db.xml) : 18 ms. number of Sw pack : 1
+2022-11-04 20:54:55,504 [INFO] PluginManage:342 - Loaded plugin thirdparty (category:base,tabindex:-1)
+2022-11-04 20:54:55,505 [INFO] PluginManage:292 - Check plugin tools
+2022-11-04 20:54:55,534 [INFO] PluginManage:342 - Loaded plugin tools (category:base,tabindex:7)
+2022-11-04 20:54:55,534 [INFO] PluginManage:292 - Check plugin tutovideos
+2022-11-04 20:54:55,717 [INFO] PluginManage:347 - Ignore plugin tutovideos (category:base)
+2022-11-04 20:54:55,725 [INFO] PluginManage:292 - Check plugin updater
+2022-11-04 20:54:55,747 [INFO] PluginManage:342 - Loaded plugin updater (category:base,tabindex:12)
+2022-11-04 20:54:55,747 [INFO] PluginManage:265 - PluginManage : Loaded plugins [12]
+2022-11-04 20:54:56,242 [INFO] PinOutPanel:1420 - setPackage(No Configuration,No Configuration)
+2022-11-04 20:54:56,421 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2022-11-04 20:54:56,421 [INFO] PluginManager:200 - loadIPPluginJar : add adc
+2022-11-04 20:54:56,452 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2022-11-04 20:54:56,452 [INFO] PluginManager:200 - loadIPPluginJar : add aes
+2022-11-04 20:54:56,514 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2022-11-04 20:54:56,521 [INFO] PluginManager:200 - loadIPPluginJar : add can
+2022-11-04 20:54:56,552 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2022-11-04 20:54:56,552 [INFO] PluginManager:200 - loadIPPluginJar : add comp
+2022-11-04 20:54:56,637 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2022-11-04 20:54:56,637 [INFO] PluginManager:200 - loadIPPluginJar : add cryp
+2022-11-04 20:54:56,699 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2022-11-04 20:54:56,699 [INFO] PluginManager:200 - loadIPPluginJar : add dfsdm
+2022-11-04 20:54:56,732 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2022-11-04 20:54:56,734 [INFO] PluginManager:200 - loadIPPluginJar : add dma
+2022-11-04 20:54:56,936 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2022-11-04 20:54:56,936 [INFO] PluginManager:200 - loadIPPluginJar : add fatfs
+2022-11-04 20:54:57,047 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2022-11-04 20:54:57,055 [INFO] PluginManager:200 - loadIPPluginJar : add fmc
+2022-11-04 20:54:57,087 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2022-11-04 20:54:57,087 [INFO] PluginManager:200 - loadIPPluginJar : add freertos
+2022-11-04 20:54:57,148 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2022-11-04 20:54:57,148 [INFO] PluginManager:200 - loadIPPluginJar : add genericplugin
+2022-11-04 20:54:57,327 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2022-11-04 20:54:57,327 [INFO] PluginManager:200 - loadIPPluginJar : add gfxmmu
+2022-11-04 20:54:57,529 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2022-11-04 20:54:57,529 [INFO] PluginManager:200 - loadIPPluginJar : add gic
+2022-11-04 20:54:57,539 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2022-11-04 20:54:57,539 [INFO] PluginManager:200 - loadIPPluginJar : add gpio
+2022-11-04 20:54:57,638 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2022-11-04 20:54:57,638 [INFO] PluginManager:200 - loadIPPluginJar : add gtzc
+2022-11-04 20:54:57,701 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2022-11-04 20:54:57,701 [INFO] PluginManager:200 - loadIPPluginJar : add hash
+2022-11-04 20:54:57,770 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2022-11-04 20:54:57,770 [INFO] PluginManager:200 - loadIPPluginJar : add i2c
+2022-11-04 20:54:57,832 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2022-11-04 20:54:57,832 [INFO] PluginManager:200 - loadIPPluginJar : add i2s
+2022-11-04 20:54:58,023 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2022-11-04 20:54:58,023 [INFO] PluginManager:200 - loadIPPluginJar : add ipddr
+2022-11-04 20:54:58,071 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2022-11-04 20:54:58,071 [INFO] PluginManager:200 - loadIPPluginJar : add ltdc
+2022-11-04 20:54:58,086 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2022-11-04 20:54:58,086 [INFO] PluginManager:200 - loadIPPluginJar : add mdma
+2022-11-04 20:54:58,102 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2022-11-04 20:54:58,102 [INFO] PluginManager:200 - loadIPPluginJar : add nvic
+2022-11-04 20:54:58,140 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2022-11-04 20:54:58,140 [INFO] PluginManager:200 - loadIPPluginJar : add opamp
+2022-11-04 20:54:58,202 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2022-11-04 20:54:58,202 [INFO] PluginManager:200 - loadIPPluginJar : add pdm2pcm
+2022-11-04 20:54:58,240 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2022-11-04 20:54:58,255 [INFO] PluginManager:200 - loadIPPluginJar : add plateformsettings
+2022-11-04 20:54:58,287 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2022-11-04 20:54:58,287 [INFO] PluginManager:200 - loadIPPluginJar : add quadspi
+2022-11-04 20:54:58,318 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2022-11-04 20:54:58,318 [INFO] PluginManager:200 - loadIPPluginJar : add resmgrutility
+2022-11-04 20:54:58,501 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2022-11-04 20:54:58,501 [INFO] PluginManager:200 - loadIPPluginJar : add sai
+2022-11-04 20:54:58,584 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2022-11-04 20:54:58,584 [INFO] PluginManager:200 - loadIPPluginJar : add spi
+2022-11-04 20:54:58,644 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2022-11-04 20:54:58,644 [INFO] PluginManager:200 - loadIPPluginJar : add stm32_wpan
+2022-11-04 20:54:58,674 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2022-11-04 20:54:58,674 [INFO] PluginManager:200 - loadIPPluginJar : add tim
+2022-11-04 20:54:58,773 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2022-11-04 20:54:58,773 [INFO] PluginManager:200 - loadIPPluginJar : add touchsensing
+2022-11-04 20:54:58,799 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2022-11-04 20:54:58,799 [INFO] PluginManager:200 - loadIPPluginJar : add tracer_emb
+2022-11-04 20:54:58,846 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2022-11-04 20:54:58,846 [INFO] PluginManager:200 - loadIPPluginJar : add ts
+2022-11-04 20:54:58,877 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2022-11-04 20:54:58,877 [INFO] PluginManager:200 - loadIPPluginJar : add tsc
+2022-11-04 20:54:58,899 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2022-11-04 20:54:58,899 [INFO] PluginManager:200 - loadIPPluginJar : add ucpd
+2022-11-04 20:54:58,962 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2022-11-04 20:54:58,962 [INFO] PluginManager:200 - loadIPPluginJar : add usart
+2022-11-04 20:54:59,817 [INFO] BoardConnectionPanel:3472 - [DDR PANEL] STM32CubeIDE environment
+2022-11-04 20:54:59,817 [INFO] MainDdrPanel:103 - [DDR PANEL] GETTER - cubeProgrammerPath is: null
+2022-11-04 20:55:00,126 [FATAL] Updater:277 - Updater called before beeing initialized
+2022-11-04 20:55:00,804 [FATAL] Updater:277 - Updater called before beeing initialized
+2022-11-04 20:55:00,814 [INFO] PinOutPanel:1420 - setPackage(No Configuration,No Configuration)
+2022-11-04 20:55:00,822 [FATAL] Updater:277 - Updater called before beeing initialized
+2022-11-04 20:55:00,832 [INFO] BoardConnectionPanel:3472 - [DDR PANEL] STM32CubeIDE environment
+2022-11-04 20:55:00,832 [INFO] MainDdrPanel:103 - [DDR PANEL] GETTER - cubeProgrammerPath is: C:\ST\STM32CubeIDE_1.3.0\STM32CubeIDE\plugins\com.st.stm32cube.ide.mcu.externaltools.cubeprogrammer.win32_1.3.0.202002181050\tools\bin
+2022-11-04 20:55:00,844 [INFO] ProgrammerExecThread:148 - [ProgrammerAPI] CubeProgrammer command construction: C:\ST\STM32CubeIDE_1.3.0\STM32CubeIDE\plugins\com.st.stm32cube.ide.mcu.externaltools.cubeprogrammer.win32_1.3.0.202002181050\tools\bin\STM32_Programmer_CLI.exe -l
+2022-11-04 20:55:01,492 [FATAL] Updater:277 - Updater called before beeing initialized
+2022-11-04 20:55:01,493 [ERROR] IntegrityCheckThread:252 - Cannot obtain thirdParties list 21
+2022-11-04 20:55:01,493 [ERROR] IntegrityCheckThread:100 - Unexpected exception IntegrityCheckThread Thread: Updater error
+2022-11-04 20:55:01,494 [INFO] ThirdPartyDb:261 - Close Third Party DataBase File (C:/Users/Lazar/.stm32cubemx/plugins/thirdparty/db/thirdparties_db.xml)
+2022-11-04 20:55:01,770 [INFO] MainDdrPanel:93 - [DDR PANEL] SETTER - Set cubeProgrammerPath to: C:\ST\STM32CubeIDE_1.3.0\STM32CubeIDE\plugins\com.st.stm32cube.ide.mcu.externaltools.cubeprogrammer.win32_1.3.0.202002181050\tools\bin
+2022-11-04 20:55:01,833 [INFO] Updater:886 - Updater Version found : 5.6.0
+2022-11-04 20:55:01,893 [INFO] ApplicationProperties:181 - Using Application install path: C:\ST\STM32CubeIDE_1.3.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_5.6.0.202002181639
+2022-11-04 20:55:02,225 [INFO] MainUpdater:2230 - connection check result : 10
+2022-11-04 20:55:02,225 [INFO] MainUpdater:236 - Updater Check For Update Now.
+2022-11-04 20:55:02,227 [INFO] MicroXplorer:420 - Change Database Version : DB.5.0.60
+2022-11-04 20:55:02,510 [INFO] CheckServerUpdateThread:92 - End of CheckServer Thread
+2022-11-04 20:55:02,510 [INFO] MainUpdater:2230 - connection check result : 10
+2022-11-04 20:55:02,510 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Successfull proxy connection.
+2022-11-04 20:55:03,036 [INFO] McuFinderGlobals:40 - Set McuFinder mode to 2 (CubeIDE integrated)
+2022-11-04 20:55:03,107 [INFO] FinderPluginLoader:86 - Searching for filters in installed packs
+2022-11-04 20:55:03,107 [INFO] DbMcusXml:110 - Load MCU database from C:\ST\STM32CubeIDE_1.3.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_5.6.0.202002181639\\db\/mcu/families.xml
+2022-11-04 20:55:05,443 [INFO] DbMcusJson:90 - JSON generation date=Tue Nov 16 17:17:54 CET 2021 (1637079474)
+2022-11-04 20:55:07,541 [INFO] DbMcus:171 - Found 1670 MCUs (1625 are supported by CubeMX, 1625 are visible in CubeMX)
+2022-11-04 20:55:07,541 [INFO] ApiDb:158 - Load user favorites file C:\Users\Lazar/.stm32cubeide/favorites.mcus.txt: 0 item(s)
+2022-11-04 20:55:07,541 [INFO] ApiDb:163 - User favorites MCUs=[]
+2022-11-04 20:55:07,541 [INFO] DbMcus:183 - Set 0 / 0 favorites MCUs
+2022-11-04 20:55:09,930 [INFO] LoadUrlFilesThread:161 - End of LoadServerUrlFiles without Thread
+2022-11-04 20:55:09,948 [INFO] McuDetailPanel:181 - Set advertising image to C:/Users/Lazar/STM32Cube/Repository/\en.Prom_NBSTM32U50921.jpg
+2022-11-04 20:55:11,482 [INFO] McuFilterPanel:249 - Update 0 favorites MCUs
+2022-11-04 20:55:12,038 [INFO] DbBoardsPdsc:92 - Found 22 items
+2022-11-04 20:55:12,060 [INFO] DbBoardsPdsc:92 - Found 9 items
+2022-11-04 20:55:12,085 [INFO] DbBoardsPdsc:92 - Found 28 items
+2022-11-04 20:55:12,108 [INFO] DbBoardsPdsc:92 - Found 1 items
+2022-11-04 20:55:12,168 [INFO] DbBoardsPdsc:92 - Found 40 items
+2022-11-04 20:55:12,349 [INFO] DbBoardsPdsc:92 - Found 39 items
+2022-11-04 20:55:12,395 [INFO] DbBoardsPdsc:92 - Found 2 items
+2022-11-04 20:55:12,417 [INFO] DbBoardsPdsc:92 - Found 4 items
+2022-11-04 20:55:12,518 [WARN] DbBoardsPdsc:256 - Board STM32H7B3I-DK: unknown feature type=Audio, name=, username=Audio stereo codec with Headphone Amp (CS42L51-CNZ), n=1
+2022-11-04 20:55:12,518 [WARN] DbBoardsPdsc:256 - Board STM32H7B3I-DK: unknown feature type=WIFI, name=, username=WIFI 802.11 b/g/n, n=1
+2022-11-04 20:55:12,520 [WARN] DbBoardsPdsc:256 - Board STM32H7B3I-EVAL: unknown feature type=Audio, name=, username=Multi-Channel Audio Codec (CS42L51-CNZ), n=1
+2022-11-04 20:55:12,520 [WARN] DbBoardsPdsc:256 - Board STM32H7B3I-EVAL: unknown feature type=Meter, name=, username=Power-metering and Temperature-monitoring with sigma-delta modulators, n=1
+2022-11-04 20:55:12,520 [WARN] DbBoardsPdsc:256 - Board STM32H7B3I-EVAL: unknown feature type=WIFI, name=, username=WIFI 802.11 a/b/g/n, n=1
+2022-11-04 20:55:12,520 [WARN] DbBoardsPdsc:256 - Board STM32H7B3I-EVAL: unknown feature type=Motor, name=, username=Motor Control, n=1
+2022-11-04 20:55:12,641 [INFO] DbBoardsJson:80 - JSON generation date=Tue Nov 16 17:17:54 CET 2021 (1637079474)
+2022-11-04 20:55:12,742 [INFO] DbBoards:120 - Found 166 boards (142 are supported by CubeMX)
+2022-11-04 20:55:12,769 [INFO] DbBoardsDocs:131 - JSON generation date=Tue Nov 16 17:17:54 CET 2021 (1637079474)
+2022-11-04 20:55:12,778 [INFO] DbBoardsDocs:70 - Found 209 boards documents
+2022-11-04 20:55:12,780 [WARN] DbBoards:130 - board NUCLEO-H743ZI has no document id list !
+2022-11-04 20:55:12,782 [WARN] DbBoards:130 - board P-NUCLEO-WB55-Nucleo has no document id list !
+2022-11-04 20:55:12,783 [WARN] DbBoards:130 - board P-NUCLEO-WB55-USBDongle has no document id list !
+2022-11-04 20:55:12,783 [WARN] DbBoards:130 - board NUCLEO-WB35CE has no document id list !
+2022-11-04 20:55:12,784 [WARN] DbBoards:130 - board STM32F401C-DISCO has no document id list !
+2022-11-04 20:55:12,784 [WARN] DbBoards:130 - board STM32F769I-DISC1 has no document id list !
+2022-11-04 20:55:12,785 [WARN] DbBoards:130 - board STM32L-DISCOVERY has no document id list !
+2022-11-04 20:55:12,786 [WARN] DbBoards:130 - board STM32H747I-DISC1 has no document id list !
+2022-11-04 20:55:12,788 [WARN] DbBoards:130 - board STM32439I-EVAL2 has no document id list !
+2022-11-04 20:55:12,788 [WARN] DbBoards:130 - board STM32H743I-EVAL2 has no document id list !
+2022-11-04 20:55:12,789 [WARN] DbBoards:130 - board STM32H753I-EVAL2 has no document id list !
+2022-11-04 20:55:12,790 [WARN] DbBoards:130 - board STM32G474E-EVAL1 has no document id list !
+2022-11-04 20:55:12,790 [WARN] DbBoards:130 - board STEVAL-BFA001V1B has no document id list !
+2022-11-04 20:55:12,790 [WARN] DbBoards:130 - board STEVAL-BFA001V2B has no document id list !
+2022-11-04 20:55:12,790 [WARN] DbBoards:130 - board STEVAL-MKSBOX1V1 has no document id list !
+2022-11-04 20:55:12,791 [WARN] DbBoards:130 - board STEVAL-STWINKT1 has no document id list !
+2022-11-04 20:55:12,791 [WARN] DbBoards:130 - board STEVAL-IDP005V1 has no document id list !
+2022-11-04 20:55:12,791 [WARN] DbBoards:130 - board STEVAL-IDP005V2 has no document id list !
+2022-11-04 20:55:12,793 [WARN] DbBoards:130 - board STEVAL-STWINKT1B has no document id list !
+2022-11-04 20:55:13,333 [ERROR] DbBoards:192 - Image file not found for board NUCLEO-F413ZH: C:\ST\STM32CubeIDE_1.3.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_5.6.0.202002181639\\db\/plugins/mcufinder/images/boards/nucleo-f413zh_small.jpg
+2022-11-04 20:55:13,631 [ERROR] DbBoards:192 - Image file not found for board NUCLEO-L552ZE-Q: C:\ST\STM32CubeIDE_1.3.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_5.6.0.202002181639\\db\/plugins/mcufinder/images/boards/nucleo_l552ze_q_small.jpg
+2022-11-04 20:55:16,200 [ERROR] DbBoards:192 - Image file not found for board STM32H7B3I-EVAL: C:\ST\STM32CubeIDE_1.3.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_5.6.0.202002181639\\db\/plugins/mcufinder/images/boards/stm32h7b3ieval_small.jpg
+2022-11-04 20:55:16,765 [ERROR] DbBoards:192 - Image file not found for board B-L462E-CELL1: C:\ST\STM32CubeIDE_1.3.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_5.6.0.202002181639\\db\/plugins/mcufinder/images/boards/B-L462E-CELL1_small.jpg
+2022-11-04 20:55:16,775 [ERROR] DbBoards:192 - Image file not found for board NUCLEO-WL55JC: C:\ST\STM32CubeIDE_1.3.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_5.6.0.202002181639\\db\/plugins/mcufinder/images/boards/nucleo-wl55jc-small.jpg
+2022-11-04 20:55:16,775 [ERROR] DbBoards:192 - Image file not found for board STM32H735G-DK: C:\ST\STM32CubeIDE_1.3.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_5.6.0.202002181639\\db\/plugins/mcufinder/images/boards/STM32H735G_DK_small.jpg
+2022-11-04 20:55:16,805 [ERROR] DbBoards:192 - Image file not found for board B-L4S5I-IOT01A: C:\ST\STM32CubeIDE_1.3.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_5.6.0.202002181639\\db\/plugins/mcufinder/images/boards/B-L4S5I-IOT01A_small.jpg
+2022-11-04 20:55:16,815 [ERROR] DbBoards:192 - Image file not found for board NUCLEO-WB55RG: C:\ST\STM32CubeIDE_1.3.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_5.6.0.202002181639\\db\/plugins/mcufinder/images/boards/nucleo-wb55rg_small.jpg
+2022-11-04 20:55:16,825 [ERROR] DbBoards:192 - Image file not found for board STM32G0C1E-EV: C:\ST\STM32CubeIDE_1.3.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_5.6.0.202002181639\\db\/plugins/mcufinder/images/boards/stm32g0c1e-eval_small.jpg
+2022-11-04 20:55:16,825 [ERROR] DbBoards:192 - Image file not found for board NUCLEO-WB15CC: C:\ST\STM32CubeIDE_1.3.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_5.6.0.202002181639\\db\/plugins/mcufinder/images/boards/nucleo-wb15cc_small.jpg
+2022-11-04 20:55:16,825 [ERROR] DbBoards:192 - Image file not found for board STM32WB5MM-DK: C:\ST\STM32CubeIDE_1.3.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_5.6.0.202002181639\\db\/plugins/mcufinder/images/boards/STM32WB5MM-DK_small.jpg
+2022-11-04 20:55:16,825 [ERROR] DbBoards:192 - Image file not found for board B-U585I-IOT02A: C:\ST\STM32CubeIDE_1.3.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_5.6.0.202002181639\\db\/plugins/mcufinder/images/boards/B-U585I-IOT02A_small.jpg
+2022-11-04 20:55:16,825 [ERROR] DbBoards:192 - Image file not found for board NUCLEO-U575ZI-Q: C:\ST\STM32CubeIDE_1.3.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_5.6.0.202002181639\\db\/plugins/mcufinder/images/boards/nucleo-u575zi-q_small.jpg
+2022-11-04 20:55:16,825 [ERROR] DbBoards:192 - Image file not found for board STM32U575I-EV: C:\ST\STM32CubeIDE_1.3.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_5.6.0.202002181639\\db\/plugins/mcufinder/images/boards/stm32u575i-ev_small.jpg
+2022-11-04 20:55:16,825 [ERROR] DbBoards:192 - Image file not found for board STEVAL-STWINKT1B: C:\ST\STM32CubeIDE_1.3.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_5.6.0.202002181639\\db\/plugins/mcufinder/images/boards/steval-stwinkt1b_small.jpg
+2022-11-04 20:55:16,825 [INFO] ApiDb:158 - Load user favorites file C:\Users\Lazar/.stm32cubeide/favorites.boards.txt: 0 item(s)
+2022-11-04 20:55:16,825 [INFO] ApiDb:163 - User favorites Boards=[]
+2022-11-04 20:55:16,825 [INFO] DbBoards:209 - Set 0 / 0 favorites Boards
+2022-11-04 20:55:17,065 [INFO] LoadUrlFilesThread:161 - End of LoadServerUrlFiles without Thread
+2022-11-04 20:55:17,067 [INFO] BoardDetailPanel:180 - Set advertising image to C:/Users/Lazar/STM32Cube/Repository/\en.Prom_NBSTM32U50921.jpg
+2022-11-04 20:55:17,158 [INFO] BoardFilterPanel:211 - Update 0 favorites Boards
+2022-11-04 20:55:17,418 [INFO] CrossSelectorPresenter:1319 - Cross Selector saved comparison directory: C:\Users\Lazar\.stmcufinder\plugins\mcufinder\mcu\cs_comparisons_mx
+2022-11-04 20:55:33,220 [INFO] DbMcusDocs:142 - JSON generation date=Tue Nov 16 17:17:54 CET 2021 (1637079474)
+2022-11-04 20:55:33,539 [INFO] DbMcusDocs:77 - Found 682 MCUs documents
+2022-11-04 20:55:52,802 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] withoutVersionV1.8.4
+2022-11-04 20:55:52,802 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] withoutVersionV1.8.3
+2022-11-04 20:55:52,802 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] withoutVersionV1.8.2
+2022-11-04 20:55:52,817 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] withoutVersionV1.8.1
+2022-11-04 20:55:52,817 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] withoutVersionV1.8.0
+2022-11-04 20:55:58,396 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] File copied successfully!!
+2022-11-04 20:56:01,212 [INFO] MainUpdater:2230 - connection check result : 10
+2022-11-04 20:56:01,312 [INFO] MicroXplorer:390 - Change Database Path : 
+2022-11-04 20:56:01,312 [INFO] MicroXplorer:420 - Change Database Version : DB.5.0.60
+2022-11-04 20:56:01,328 [INFO] PinOutPanel:1420 - setPackage(No Configuration,No Configuration)
+2022-11-04 20:56:01,328 [INFO] UtilMem:74 - Begin LoadConfig() Used Memory: 509172064 Bytes (968884224)
+2022-11-04 20:56:01,328 [INFO] MicroXplorer:390 - Change Database Path : 
+2022-11-04 20:56:01,328 [INFO] MicroXplorer:420 - Change Database Version : DB.5.0.60
+2022-11-04 20:56:01,328 [INFO] OpenFileManager:274 - Change cursor
+2022-11-04 20:56:03,707 [INFO] ImportTextPane:162 - (OptionalMessage_ERROR) Unable to find key (Mcu.ThirdPartyNb) in loaded IOC file
+2022-11-04 20:56:03,707 [INFO] ImportTextPane:162 - (OptionalMessage_ERROR) Unable to find key (Mcu.PinsNb) in loaded IOC file
+2022-11-04 20:56:03,707 [INFO] ImportTextPane:162 - (OptionalMessage_ERROR) Unable to find key (Mcu.IPNb) in loaded IOC file
+2022-11-04 20:56:04,121 [INFO] UtilMem:74 - End LoadConfig() Used Memory: 553859792 Bytes (968884224)
+2022-11-04 20:56:04,131 [INFO] ThirdPartyDb:295 - Open Third Party DataBase File (C:/Users/Lazar/.stm32cubemx/plugins/thirdparty/db/thirdparties_db.xml) : 0 ms. number of Sw pack : 1
+2022-11-04 20:56:04,171 [INFO] ThirdParty:899 - CMSIS Pack Vendor :STMicroelectronics FreeRTOS 0.0.1
+2022-11-04 20:56:04,545 [INFO] PinOutPanel:1420 - setPackage(No Configuration,No Configuration)
+2022-11-04 20:56:04,545 [INFO] PinOutPanel:1420 - setPackage(STM32F103C6Ux,UFQFPN48)
+2022-11-04 20:56:05,422 [INFO] UtilMem:74 - Before build in PCC Used Memory: 588762672 Bytes (968884224)
+2022-11-04 20:56:06,368 [INFO] SharedServices:71 - Folder for power plug-in: C:/Users/Lazar/.stm32cubemx/plugins/power
+2022-11-04 20:56:06,477 [INFO] SharedServices:71 - Folder for power plug-in: C:/Users/Lazar/.stm32cubemx/plugins/power
+2022-11-04 20:56:06,558 [INFO] SharedServices:71 - Folder for power plug-in: C:/Users/Lazar/.stm32cubemx/plugins/power
+2022-11-04 20:56:06,560 [INFO] SharedServices:71 - Folder for power plug-in: C:/Users/Lazar/.stm32cubemx/plugins/power
+2022-11-04 20:56:06,913 [INFO] UtilMem:74 - After build in PCC Used Memory: 643552656 Bytes (968884224)
+2022-11-04 20:56:06,944 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2022-11-04 20:56:06,952 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2022-11-04 20:56:06,952 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2022-11-04 20:56:06,952 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2022-11-04 20:56:06,952 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2022-11-04 20:56:06,952 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2022-11-04 20:56:06,954 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2022-11-04 20:56:06,954 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2022-11-04 20:56:06,954 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2022-11-04 20:56:06,954 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2022-11-04 20:56:06,954 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2022-11-04 20:56:06,954 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2022-11-04 20:56:06,954 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2022-11-04 20:56:06,954 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2022-11-04 20:56:06,954 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2022-11-04 20:56:06,954 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2022-11-04 20:56:06,954 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2022-11-04 20:56:06,954 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2022-11-04 20:56:06,954 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2022-11-04 20:56:06,954 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2022-11-04 20:56:06,954 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2022-11-04 20:56:06,954 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2022-11-04 20:56:06,954 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2022-11-04 20:56:07,014 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] toolchainItems.length=====1
+2022-11-04 20:56:07,174 [INFO] OpenFileManager:294 - Restore cursor
+2022-11-04 20:56:07,610 [INFO] UtilMem:74 - End SaveConfig() Used Memory: 669785128 Bytes (968884224)
+2022-11-04 20:56:07,762 [INFO] UtilMem:74 - End SaveConfig() Used Memory: 673712280 Bytes (968884224)
+2022-11-04 20:56:08,519 [INFO] BlockDiagram:2671 - set Specific Code input for plugin: NVIC
+2022-11-04 20:56:08,519 [INFO] BlockDiagram:2671 - set Specific Code input for plugin: SYS
+2022-11-04 20:56:08,519 [INFO] CodeGenerator:603 - code generatio: config db path: C:\ST\STM32CubeIDE_1.3.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_5.6.0.202002181639\\db\
+2022-11-04 20:56:09,166 [INFO] CodeEngine:188 - oldGeneratedFile, C:\Users\Lazar\Desktop\7seg displej projekat\7seg displej sa tasterom\MXTmpFiles\license.tmp_save
+2022-11-04 20:56:09,832 [INFO] CodeEngine:206 - Generated code: C:\Users\Lazar\Desktop\7seg displej projekat\7seg displej sa tasterom\MXTmpFiles\license.tmp
+2022-11-04 20:56:10,064 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Debug : prepare data for NVIC
+2022-11-04 20:56:10,064 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Command line test
+2022-11-04 20:56:10,094 [INFO] CodeEngine:188 - oldGeneratedFile, C:\Users\Lazar\Desktop\7seg displej projekat\7seg displej sa tasterom\Core\Src\stm32f1xx_it.c_save
+2022-11-04 20:56:10,395 [INFO] CodeEngine:206 - Generated code: C:\Users\Lazar\Desktop\7seg displej projekat\7seg displej sa tasterom\Core\Src\stm32f1xx_it.c
+2022-11-04 20:56:10,418 [INFO] CodeEngine:188 - oldGeneratedFile, C:\Users\Lazar\Desktop\7seg displej projekat\7seg displej sa tasterom\Core\Inc\stm32f1xx_it.h_save
+2022-11-04 20:56:11,204 [INFO] CodeEngine:206 - Generated code: C:\Users\Lazar\Desktop\7seg displej projekat\7seg displej sa tasterom\Core\Inc\stm32f1xx_it.h
+2022-11-04 20:56:11,253 [INFO] CodeEngine:188 - oldGeneratedFile, C:\Users\Lazar\Desktop\7seg displej projekat\7seg displej sa tasterom\Core\Src\stm32f1xx_hal_msp.c_save
+2022-11-04 20:56:11,547 [INFO] CodeEngine:206 - Generated code: C:\Users\Lazar\Desktop\7seg displej projekat\7seg displej sa tasterom\Core\Src\stm32f1xx_hal_msp.c
+2022-11-04 20:56:11,575 [INFO] CodeEngine:188 - oldGeneratedFile, C:\Users\Lazar\Desktop\7seg displej projekat\7seg displej sa tasterom\MXTmpFiles\system.tmp_save
+2022-11-04 20:56:11,746 [INFO] CodeEngine:206 - Generated code: C:\Users\Lazar\Desktop\7seg displej projekat\7seg displej sa tasterom\MXTmpFiles\system.tmp
+2022-11-04 20:56:11,768 [INFO] CodeEngine:188 - oldGeneratedFile, C:\Users\Lazar\Desktop\7seg displej projekat\7seg displej sa tasterom\Core\Inc\stm32f1xx_hal_conf.h_save
+2022-11-04 20:56:12,028 [INFO] CodeEngine:206 - Generated code: C:\Users\Lazar\Desktop\7seg displej projekat\7seg displej sa tasterom\Core\Inc\stm32f1xx_hal_conf.h
+2022-11-04 20:56:12,091 [INFO] CodeEngine:188 - oldGeneratedFile, C:\Users\Lazar\Desktop\7seg displej projekat\7seg displej sa tasterom\Core\Inc\main.h_save
+2022-11-04 20:56:12,444 [INFO] CodeEngine:206 - Generated code: C:\Users\Lazar\Desktop\7seg displej projekat\7seg displej sa tasterom\Core\Inc\main.h
+2022-11-04 20:56:12,472 [INFO] CodeEngine:188 - oldGeneratedFile, C:\Users\Lazar\Desktop\7seg displej projekat\7seg displej sa tasterom\Core\Src\main.c_save
+2022-11-04 20:56:13,008 [INFO] CodeEngine:206 - Generated code: C:\Users\Lazar\Desktop\7seg displej projekat\7seg displej sa tasterom\Core\Src\main.c
+2022-11-04 20:56:14,901 [INFO] ProjectBuilder:2002 - Time for Copy HAL[1] : 486mS.
+2022-11-04 20:56:14,901 [INFO] ProjectBuilder:2727 - Project Generator version: 3.7.1
+2022-11-04 20:56:15,564 [INFO] ConfigFileManager:1066 - The Die is : DIE412
+2022-11-04 20:56:38,991 [INFO] ProjectBuilder:2894 - Time for Generating toolchain IDE Files: 24090mS.
+2022-11-04 20:56:38,999 [INFO] ProjectBuilder:1878 - Time for Copy CMSIS : 8mS.
+2022-11-04 20:56:39,001 [INFO] ProjectBuilder:1878 - Time for Copy CMSIS : 0mS.
+2022-11-04 20:57:27,248 [INFO] UtilMem:74 - End SaveConfig() Used Memory: 751912888 Bytes (970981376)
+2022-11-04 20:57:28,553 [INFO] UtilMem:74 - End SaveConfig() Used Memory: 761210064 Bytes (970981376)
+2022-11-04 20:57:28,996 [INFO] UtilMem:74 - End SaveConfig() Used Memory: 776610920 Bytes (970981376)
+2022-11-04 20:57:29,592 [INFO] BlockDiagram:2671 - set Specific Code input for plugin: NVIC
+2022-11-04 20:57:29,592 [INFO] BlockDiagram:2671 - set Specific Code input for plugin: SYS
+2022-11-04 20:57:29,592 [INFO] BlockDiagram:2671 - set Specific Code input for plugin: GPIO
+2022-11-04 20:57:29,592 [INFO] CodeGenerator:603 - code generatio: config db path: C:\ST\STM32CubeIDE_1.3.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_5.6.0.202002181639\\db\
+2022-11-04 20:57:30,004 [INFO] CodeEngine:188 - oldGeneratedFile, C:\Users\Lazar\Desktop\7seg displej projekat\7seg displej sa tasterom\MXTmpFiles\license.tmp_save
+2022-11-04 20:57:30,206 [INFO] CodeEngine:206 - Generated code: C:\Users\Lazar\Desktop\7seg displej projekat\7seg displej sa tasterom\MXTmpFiles\license.tmp
+2022-11-04 20:57:30,338 [INFO] CodeEngine:188 - oldGeneratedFile, C:\Users\Lazar\Desktop\7seg displej projekat\7seg displej sa tasterom\MXTmpFiles\gpio.tmp_save
+2022-11-04 20:57:30,731 [INFO] CodeEngine:206 - Generated code: C:\Users\Lazar\Desktop\7seg displej projekat\7seg displej sa tasterom\MXTmpFiles\gpio.tmp
+2022-11-04 20:57:30,770 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Debug : prepare data for NVIC
+2022-11-04 20:57:30,772 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Command line test
+2022-11-04 20:57:30,792 [INFO] CodeEngine:188 - oldGeneratedFile, C:\Users\Lazar\Desktop\7seg displej projekat\7seg displej sa tasterom\Core\Src\stm32f1xx_it.c_save
+2022-11-04 20:57:31,458 [INFO] CodeEngine:206 - Generated code: C:\Users\Lazar\Desktop\7seg displej projekat\7seg displej sa tasterom\Core\Src\stm32f1xx_it.c
+2022-11-04 20:57:31,468 [INFO] CodeEngine:188 - oldGeneratedFile, C:\Users\Lazar\Desktop\7seg displej projekat\7seg displej sa tasterom\Core\Inc\stm32f1xx_it.h_save
+2022-11-04 20:57:31,896 [INFO] CodeEngine:206 - Generated code: C:\Users\Lazar\Desktop\7seg displej projekat\7seg displej sa tasterom\Core\Inc\stm32f1xx_it.h
+2022-11-04 20:57:32,040 [INFO] CodeEngine:188 - oldGeneratedFile, C:\Users\Lazar\Desktop\7seg displej projekat\7seg displej sa tasterom\Core\Src\stm32f1xx_hal_msp.c_save
+2022-11-04 20:57:32,343 [INFO] CodeEngine:206 - Generated code: C:\Users\Lazar\Desktop\7seg displej projekat\7seg displej sa tasterom\Core\Src\stm32f1xx_hal_msp.c
+2022-11-04 20:57:32,353 [INFO] CodeEngine:188 - oldGeneratedFile, C:\Users\Lazar\Desktop\7seg displej projekat\7seg displej sa tasterom\MXTmpFiles\system.tmp_save
+2022-11-04 20:57:32,585 [INFO] CodeEngine:206 - Generated code: C:\Users\Lazar\Desktop\7seg displej projekat\7seg displej sa tasterom\MXTmpFiles\system.tmp
+2022-11-04 20:57:32,616 [INFO] CodeEngine:188 - oldGeneratedFile, C:\Users\Lazar\Desktop\7seg displej projekat\7seg displej sa tasterom\Core\Inc\stm32f1xx_hal_conf.h_save
+2022-11-04 20:57:32,878 [INFO] CodeEngine:206 - Generated code: C:\Users\Lazar\Desktop\7seg displej projekat\7seg displej sa tasterom\Core\Inc\stm32f1xx_hal_conf.h
+2022-11-04 20:57:32,886 [WARN] IPConfigManager:2701 - IP not found : gpio
+2022-11-04 20:57:32,886 [WARN] CodeGenerator:2649 - IP not found : gpio
+2022-11-04 20:57:32,926 [INFO] CodeEngine:188 - oldGeneratedFile, C:\Users\Lazar\Desktop\7seg displej projekat\7seg displej sa tasterom\Core\Inc\main.h_save
+2022-11-04 20:57:33,080 [INFO] CodeEngine:206 - Generated code: C:\Users\Lazar\Desktop\7seg displej projekat\7seg displej sa tasterom\Core\Inc\main.h
+2022-11-04 20:57:33,110 [INFO] CodeEngine:188 - oldGeneratedFile, C:\Users\Lazar\Desktop\7seg displej projekat\7seg displej sa tasterom\Core\Src\main.c_save
+2022-11-04 20:57:33,304 [INFO] CodeEngine:206 - Generated code: C:\Users\Lazar\Desktop\7seg displej projekat\7seg displej sa tasterom\Core\Src\main.c
+2022-11-04 20:57:35,114 [INFO] ProjectBuilder:2002 - Time for Copy HAL[1] : 332mS.
+2022-11-04 20:57:35,114 [INFO] ProjectBuilder:2727 - Project Generator version: 3.7.1
+2022-11-04 20:57:35,896 [INFO] ConfigFileManager:1066 - The Die is : DIE412
+2022-11-04 20:57:40,103 [INFO] ProjectBuilder:2894 - Time for Generating toolchain IDE Files: 4989mS.
+2022-11-04 20:57:40,103 [INFO] ProjectBuilder:1878 - Time for Copy CMSIS : 0mS.
+2022-11-04 20:57:40,103 [INFO] ProjectBuilder:1878 - Time for Copy CMSIS : 0mS.
+2022-11-05 19:26:00,084 [INFO] Activator:176 - 
+
+
+2022-11-05 19:26:00,094 [INFO] Activator:177 - !SESSION log4j initialized
+2022-11-06 11:43:31,182 [INFO] Activator:176 - 
+
+
+2022-11-06 11:43:31,191 [INFO] Activator:177 - !SESSION log4j initialized
+2022-11-06 23:34:37,138 [INFO] Activator:176 - 
+
+
+2022-11-06 23:34:37,151 [INFO] Activator:177 - !SESSION log4j initialized
+2022-11-07 11:10:29,717 [INFO] Activator:176 - 
+
+
+2022-11-07 11:10:29,717 [INFO] Activator:177 - !SESSION log4j initialized
+2022-11-07 21:18:12,213 [INFO] Activator:176 - 
+
+
+2022-11-07 21:18:12,223 [INFO] Activator:177 - !SESSION log4j initialized

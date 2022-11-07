@@ -1,0 +1,23 @@
+21:35:16 **** Incremental Build of configuration Debug for project 7seg displej sa tasterom ****
+make -j4 all 
+arm-none-eabi-gcc "../Core/Src/main.c" -mcpu=cortex-m3 -std=gnu11 -g3 -DUSE_HAL_DRIVER -DSTM32F103x6 -DDEBUG -c -I../Drivers/CMSIS/Device/ST/STM32F1xx/Include -I../Drivers/CMSIS/Include -I../Core/Inc -I../Drivers/STM32F1xx_HAL_Driver/Inc/Legacy -I../Drivers/STM32F1xx_HAL_Driver/Inc -O0 -ffunction-sections -fdata-sections -Wall -fstack-usage -MMD -MP -MF"Core/Src/main.d" -MT"Core/Src/main.o" --specs=nano.specs -mfloat-abi=soft -mthumb -o "Core/Src/main.o"
+arm-none-eabi-gcc -o "7seg displej sa tasterom.elf" @"objects.list"   -mcpu=cortex-m3 -T"C:\Users\Lazar\Desktop\7seg displej projekat\7seg displej sa tasterom\STM32F103C6UX_FLASH.ld" --specs=nosys.specs -Wl,-Map="7seg displej sa tasterom.map" -Wl,--gc-sections -static --specs=nano.specs -mfloat-abi=soft -mthumb -Wl,--start-group -lc -lm -Wl,--end-group
+Finished building target: 7seg displej sa tasterom.elf
+ 
+arm-none-eabi-objdump -h -S  7seg\ displej\ sa\ tasterom.elf  > "7seg displej sa tasterom.list"
+arm-none-eabi-objcopy  -O ihex  7seg\ displej\ sa\ tasterom.elf  "7seg displej sa tasterom.hex"
+arm-none-eabi-objcopy  -O binary  7seg\ displej\ sa\ tasterom.elf  "7seg displej sa tasterom.bin"
+arm-none-eabi-size   7seg\ displej\ sa\ tasterom.elf 
+   text	   data	    bss	    dec	    hex	filename
+   4748	     20	   1572	   6340	   18c4	7seg displej sa tasterom.elf
+Finished building: default.size.stdout
+Finished building: 7seg displej sa tasterom.hex
+Finished building: 7seg displej sa tasterom.bin
+Finished building: 7seg displej sa tasterom.list
+ 
+ 
+ 
+ 
+
+21:35:19 Build Finished. 0 errors, 0 warnings. (took 3s.120ms)
+
